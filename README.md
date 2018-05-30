@@ -3,15 +3,15 @@ Genration Signal MLI on the STM32F407VG + ADC Ch1(rapport cyclique de MLI) &amp;
 
 
 
-*) Genration Signal MLI sur sortie Timer 1 canal 1 (frequence reglable entre 1000 et 10KHz) par canal1 ADC1 et 
+1) Genration Signal MLI sur sortie Timer 1 canal 1 (frequence reglable entre 1000 et 10KHz) par canal1 ADC1 et 
 rapport cyclique reglable par canal 2 ADC1
 
 
-*) Liaison série USART (essai entre USART 1 et PC avec un adaptateur et un circuit de mise a niveau)
+2) Liaison série USART (essai entre USART 1 et PC avec un adaptateur et un circuit de mise a niveau)
 --Creation d'une fonction printf() retarget vers UART--
 
 
-*) Exploitation de la liaison serie pour envoyer les donnees de conversion sur canal 1 ADC1 en format ASCII.
+3) Exploitation de la liaison serie pour envoyer les donnees de conversion sur canal 1 ADC1 en format ASCII.
 
 
                                
