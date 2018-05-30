@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.ExpressionView"/>
+<orientation position="512" view="org.coocox.builder.ui.exampleView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+<orientation position="512" view="org.coocox.component.ui.Help"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="6"/>
+<part id="5"/>
+<part id="2"/>
+<part id="3"/>
+<part id="8"/>
+<part id="9"/>
+<part id="7"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">
+<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="0" verticalPosition="0"/>
+</input>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/main.c" title="main.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2490" selectionTopPixel="730"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ADC1.c" partName="ADC1.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/ADC.c" title="ADC1.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/ADC.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/ADC1.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="829" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="LED.c" partName="LED.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/LED.c" title="LED.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/LED.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/LED.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="425" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="startup_stm32f4xx.c" partName="startup_stm32f4xx.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/cmsis_boot/startup/startup_stm32f4xx.c" title="startup_stm32f4xx.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/cmsis_boot/startup/startup_stm32f4xx.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/cmsis_boot/startup/startup_stm32f4xx.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="TIMER.c" partName="TIMER.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/TIMER.c" title="TIMER.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/TIMER.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/TIMER.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="751" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="PWM.c" partName="PWM.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/PWM.c" title="PWM.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/PWM.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/PWM.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1237" selectionTopPixel="54"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.c" partName="stm32f4xx_tim.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/cmsis_lib/source/stm32f4xx_tim.c" title="stm32f4xx_tim.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/cmsis_lib/source/stm32f4xx_tim.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/cmsis_lib/source/stm32f4xx_tim.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3017" selectionTopPixel="1050"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="UART.c" partName="UART.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/UART.c" title="UART.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/UART.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/UART.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1671" selectionTopPixel="222"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="printf.c" partName="printf.c" path="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/stdio/printf.c" title="printf.c" tooltip="F:/2AGE2/1er Semestre/PWM_ADC_INTER_UART/stdio/printf.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PWM_ADC_INTER_UART/stdio/printf.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12895" selectionTopPixel="240"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState>
+<ExpressionKeySet ExpKeys="ADCResult,"/>
+</viewState>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="6">
+<expanded>
+<element path="/PWM_ADC_INTER_UART"/>
+<element path="/PWM_ADC_INTER_UART/cmsis"/>
+<element path="/PWM_ADC_INTER_UART/cmsis_lib"/>
+<element path="/PWM_ADC_INTER_UART/cmsis_lib/include"/>
+<element path="/PWM_ADC_INTER_UART/cmsis_lib/source"/>
+</expanded>
+<selection>
+<element path="/PWM_ADC_INTER_UART/LED.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.exampleView" partName="ADC Examples">
+<viewState>
+<Examples ComponentId="514" Title="ADC"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view" partName="Disassembly">
+<viewState disassembly.syncActiveContext="false" disassembly.trackExpression="false"/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.builder.ui.exampleView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.component.ui.Help"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6d91f4">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6d91f4">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@17ffc81" ratio="0.8070362" ratioLeft="757" ratioRight="181" relationship="4" relative="org.eclipse.ui.internal.ViewStack@6d91f4">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3c54ab" ratio="0.26610348" ratioLeft="252" ratioRight="695" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6d91f4">
+<folder activePageID="org.coocox.builder.ui.exampleView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.exampleView" label="ADC Examples"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1082318" ratio="0.53501093" ratioLeft="489" ratioRight="425" relationship="2" relative="org.eclipse.ui.internal.ViewStack@3c54ab">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.03846154" ratioLeft="29" ratioRight="725" relationship="4" relative="org.eclipse.ui.internal.ViewStack@3c54ab"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ab71d6" ratio="0.7409692" ratioLeft="841" ratioRight="294" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1892d78" ratio="0.42949757" ratioLeft="265" ratioRight="352" relationship="4" relative="org.eclipse.ui.internal.ViewStack@6d91f4">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@177e98d">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@177e98d">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@132ced1" ratio="0.69914347" ratioLeft="653" ratioRight="281" relationship="4" relative="org.eclipse.ui.internal.ViewStack@177e98d">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b9dd5c" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.ui.internal.ViewStack@132ced1">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ExpressionView:PIN_CLONE_VIEW_1" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@173d450" ratio="0.749775" ratioLeft="833" ratioRight="278" relationship="2" relative="org.eclipse.ui.internal.ViewStack@177e98d">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.20654716" ratioLeft="265" ratioRight="1018" relationship="2" relative="org.eclipse.ui.internal.ViewStack@177e98d"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/LED.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/ADC1.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/PWM.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/TIMER.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/ADC1.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/UART.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/PWM.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/TIMER.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/ADC1.c"/>
+<editor factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser">
+<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="0" verticalPosition="0"/>
+</editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/LED.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/UART.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/stdio/printf.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/cmsis_lib/source/stm32f4xx_tim.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/PWM_ADC_INTER_UART/cmsis_boot/startup/startup_stm32f4xx.c"/>
+</editors>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="128" y="0"/>
+</item>
+<item historyLabel="LED.c" index="1">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1002" y="0"/>
+</item>
+<item historyLabel="LED.c" index="1">
+<position info="not_deleted" x="425" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1002" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="2">
+<position info="not_deleted" x="128" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="3">
+<position info="not_deleted" x="1893" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="4">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="5">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="UART.c" index="6">
+<position info="not_deleted" x="1694" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="807" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="978" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="9">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="10">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="9">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="978" y="0"/>
+</item>
+<item historyLabel="Repository" index="11"/>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="978" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="10">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="LED.c" index="12">
+<position info="not_deleted" x="425" y="0"/>
+</item>
+<item historyLabel="UART.c" index="13">
+<position info="not_deleted" x="1694" y="0"/>
+</item>
+<item historyLabel="printf.c" index="14">
+<position info="not_deleted" x="12895" y="0"/>
+</item>
+<item historyLabel="UART.c" index="13">
+<position info="not_deleted" x="1694" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_tim.c" index="15">
+<position info="not_deleted" x="3017" y="0"/>
+</item>
+<item historyLabel="startup_stm32f4xx.c" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="978" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="9">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="LED.c" index="12">
+<position info="not_deleted" x="425" y="0"/>
+</item>
+<item historyLabel="UART.c" index="13">
+<position info="not_deleted" x="1168" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="978" y="0"/>
+</item>
+<item historyLabel="UART.c" index="13">
+<position info="not_deleted" x="1671" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="10">
+<position info="not_deleted" x="829" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="9">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="ADC1.c" index="10">
+<position info="not_deleted" x="829" y="0"/>
+</item>
+<item historyLabel="LED.c" index="12">
+<position info="not_deleted" x="425" y="0"/>
+</item>
+<item historyLabel="TIMER.c" index="9">
+<position info="not_deleted" x="751" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="166" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="2370" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="1237" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="2148" y="0"/>
+</item>
+<item historyLabel="PWM.c" index="8">
+<position info="not_deleted" x="1237" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="7">
+<position info="not_deleted" x="2148" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_rcc.c" tooltip="pwmabd/cmsis_lib/source/stm32f4xx_rcc.c">
+<persistable path="/pwmabd/cmsis_lib/source/stm32f4xx_rcc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.c" tooltip="pwmabd/cmsis_lib/source/stm32f4xx_tim.c">
+<persistable path="/pwmabd/cmsis_lib/source/stm32f4xx_tim.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ADC2.c" tooltip="PWM_ADC_INTER_UART/ADC2.c">
+<persistable path="/PWM_ADC_INTER_UART/ADC2.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="pwmabd/main.c">
+<persistable path="/pwmabd/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.c" tooltip="pwmabd/cmsis_lib/source/stm32f4xx_adc.c">
+<persistable path="/pwmabd/cmsis_lib/source/stm32f4xx_adc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" tooltip="pwmabd/cmsis_lib/include/stm32f4xx_adc.h">
+<persistable path="/pwmabd/cmsis_lib/include/stm32f4xx_adc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="config.c" tooltip="pwmabd/cmsis_lib/source/config.c">
+<persistable path="/pwmabd/cmsis_lib/source/config.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="printf.c" tooltip="PWM_ADC_INTER_UART/stdio/printf.c">
+<persistable path="/PWM_ADC_INTER_UART/stdio/printf.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="UART.c" tooltip="C:\Users\hadid\Desktop\STM all Fille\PWM_ADC_INTER_UART\UART.c">
+<persistable uri="file:/C:/Users/hadid/Desktop/STM%20all%20Fille/PWM_ADC_INTER_UART/UART.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" tooltip="stmproject/cmsis_lib/include/stm32f4xx_adc.h">
+<persistable path="/stmproject/cmsis_lib/include/stm32f4xx_adc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.c" tooltip="stmproject/cmsis_lib/source/stm32f4xx_adc.c">
+<persistable path="/stmproject/cmsis_lib/source/stm32f4xx_adc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="printf.c" tooltip="stmproject/stdio/printf.c">
+<persistable path="/stmproject/stdio/printf.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_rcc.c" tooltip="stmproject/cmsis_lib/source/stm32f4xx_rcc.c">
+<persistable path="/stmproject/cmsis_lib/source/stm32f4xx_rcc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_gpio.h" tooltip="PWM_ADC_INTER_UART/cmsis_lib/include/stm32f4xx_gpio.h">
+<persistable path="/PWM_ADC_INTER_UART/cmsis_lib/include/stm32f4xx_gpio.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="PWM_ADC_INTER_UART/main.c">
+<persistable path="/PWM_ADC_INTER_UART/main.c"/>
+</file>
+</mruList>
+</workbench>
